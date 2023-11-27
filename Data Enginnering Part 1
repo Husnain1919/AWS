@@ -1,1 +1,19 @@
-First
+Structured Data:
+
+Definition: Structured data refers to information that is organized in a highly predictable and well-defined manner. It follows a fixed data model with a clear schema, resembling a traditional relational database.
+Example: SQL databases, such as Amazon RDS, where data is stored in tables with predefined columns and data types. Each entry adheres to a structured schema.
+Semi-Structured Data:
+
+Definition: Semi-structured data is less rigid than structured data and does not conform to a fixed schema. It incorporates some level of flexibility and may include tags or markers for organization.
+Examples:
+XML (eXtensible Markup Language): Uses tags to structure data hierarchically.
+JSON (JavaScript Object Notation): Represents data as key-value pairs, offering flexibility.
+CSV (Comma-Separated Values): Represents tabular data but lacks a formal schema, making it semi-structured.
+
+Unstructured Data:
+
+Definition: Unstructured data lacks a predefined data model or structure. It is typically text-heavy and doesn't fit neatly into a database table. This category includes diverse and free-form content.
+Examples:
+Text Documents: Books, articles, and other textual content without a specific schema.
+Multimedia Files: Audio, video, and images that don't have inherent structural organization.
+Natural Language Processing (NLP) Content: Text data that may not have a clear structure but is analyzed for insights
